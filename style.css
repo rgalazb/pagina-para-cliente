@@ -1,0 +1,66 @@
+nav {
+  background-color: #102542;
+  height: 90px;
+
+}
+body, p {
+  padding: 0;
+  margin: 0;
+}
+.seccion1 {
+    background-color: #fff;
+    height: 460px;
+}
+
+.grupofotos {
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  float: left;
+  margin: 60px;
+}
+.seccion2 {
+  height: 460px;
+  background-color: #e8e8e8;
+}
+.titulo-seccion {
+  font-family: 'Roboto';
+  font-size: 30px;
+  position: relative;
+  top: 40px;
+  left: 60px;
+  color: #0a0908;
+}
+
+.parrafo {
+  font-family: 'Roboto';
+  position: relative;
+  top: 20px;
+  left: 60px;
+  width: 40%;
+  color: #273828;
+  float: left;
+}
+
+.foto-seccion {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  margin-left: 900px;
+}
+footer {
+  background-color: #102542;
+  height: 90px;
+}
+.info {
+  font-family: 'Roboto';
+  color: #e8e8e8;
+  width: 30%;
+  position: relative;
+  left: 60px;
+  top: 8px;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
